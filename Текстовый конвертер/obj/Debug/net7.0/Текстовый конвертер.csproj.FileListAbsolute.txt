@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net7.0\Текстовый конвертер.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net7.0\Текстовый конвертер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net7.0\Текстовый конвертер.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net7.0\Текстовый конвертер.AssemblyInfo.cs
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net7.0\Текстовый конвертер.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net7.0\Текстовый конвертер.exe
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net7.0\Текстовый конвертер.deps.json
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net7.0\Текстовый конвертер.runtimeconfig.json
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net7.0\Текстовый конвертер.dll
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net7.0\Текстовый конвертер.pdb
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net7.0\Текстовый конвертер.csproj.CopyComplete
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net7.0\Текстовый конвертер.dll
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net7.0\refint\Текстовый конвертер.dll
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net7.0\Текстовый конвертер.pdb
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net7.0\Текстовый конвертер.genruntimeconfig.cache
+C:\Users\user\source\repos\Текстовый конвертер\Текстовый конвертер\obj\Debug\net7.0\ref\Текстовый конвертер.dll
